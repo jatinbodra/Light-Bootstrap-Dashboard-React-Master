@@ -158,7 +158,6 @@ function FixedPlugin({
               <Button
                 block
                 className="btn-fill"
-                href="http://www.creative-tim.com/product/light-bootstrap-dashboard-react"
                 rel="noopener noreferrer"
                 target="_blank"
                 variant="info"
@@ -172,7 +171,6 @@ function FixedPlugin({
               <Button
                 block
                 className="btn-fill"
-                href="http://www.creative-tim.com/product/light-bootstrap-dashboard-react"
                 rel="noopener noreferrer"
                 target="_blank"
                 variant="default"
@@ -189,7 +187,6 @@ function FixedPlugin({
               <Button
                 block
                 className="btn-fill"
-                href="http://www.creative-tim.com/product/light-bootstrap-dashboard-pro-react"
                 rel="noopener noreferrer"
                 target="_blank"
                 variant="primary"

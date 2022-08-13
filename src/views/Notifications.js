@@ -46,7 +46,7 @@ function Notifications() {
       message: (
         <div>
           <div>
-            Welcome to <b>Light Bootstrap Dashboard React</b> - a beautiful
+            Welcome to <b>Advetfly Impex Dashboard React</b> - a beautiful
             freebie for every web developer.
           </div>
         </div>
@@ -69,7 +69,6 @@ function Notifications() {
             <p className="card-category">
               Handcrafted by our friend and colleague{" "}
               <a
-                href="https://github.com/EINazare"
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -77,7 +76,6 @@ function Notifications() {
               </a>
               . Please checkout the{" "}
               <a
-                href="https://github.com/creativetimofficial/react-notification-alert"
                 rel="noopener noreferrer"
                 target="_blank"
               >

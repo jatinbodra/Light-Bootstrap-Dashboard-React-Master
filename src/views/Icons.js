@@ -23,7 +23,7 @@ function Icons() {
                 <Card.Title as="h4">100 Awesome Nucleo Icons</Card.Title>
                 <p className="card-category">
                   Handcrafted by our friends from{" "}
-                  <a href="https://nucleoapp.com/?ref=1712">NucleoApp</a>
+                  <a>NucleoApp</a>
                 </p>
               </Card.Header>
               <Card.Body className="all-icons">
